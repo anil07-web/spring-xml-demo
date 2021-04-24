@@ -19,5 +19,7 @@ public class Main {
             Movie movie2 = applicationContext.getBean("movie1", Movie.class);
             System.out.println(movie2);
 
+            // you
+
     }
 }
